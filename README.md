@@ -79,14 +79,13 @@ cd skypro-potolki
 cp .env.example .env
 # При необходимости отредактируйте файл .env
 
- ###🐳 3. Запуск Docker контейнеров
+🐳 3. Запуск Docker контейнеров
 # Используйте любую из команд:
 docker compose up -d
 # или
 docker-compose up -d
 
 🔧 4. Настройка приложения
-
 # Установка PHP зависимостей
 docker compose exec app composer install
 
@@ -105,6 +104,7 @@ docker compose exec app npm run build
 docker compose ps
 # Должно быть: up или running
 
+---
 🌐 6. Доступ к приложению
 Сайт:http://localhost:8000/
 Админка: admin@admin.com / password
