@@ -75,7 +75,7 @@
 git clone https://github.com/your-username/skypro-potolki.git
 cd skypro-potolki
 
-⚙️ 2. Настройка окружения
+### ⚙️ **2. Настройка окружения**
 cp .env.example .env
 # При необходимости отредактируйте файл .env
 
