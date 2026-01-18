@@ -6,27 +6,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-Отлично! Я вижу, что это уже существующий README.md файл Laravel с дополнительной информацией о вашем проекте. Давайте красиво объединим всё в один профессиональный README файл.
-
-```markdown
-<p align="center">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SkyPro-Потолки-blue?style=for-the-badge&logo=home-assistant&logoColor=white" alt="SkyPro">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
 
 # 🏢 SkyPro — Профессиональные натяжные потолки
 
@@ -350,8 +329,6 @@ Laravel имеет самую обширную и тщательную [доку
 4. **Профессионально оформлен** с иконками, таблицами и цветовым кодированием
 5. **Содержит подробные инструкции** для разработчиков и администраторов
 6. **Имеет чёткую навигацию** по разделам
-
-Файл готов к использованию! Просто скопируйте этот текст в ваш `README.md`.
 
 ## About Laravel
 
